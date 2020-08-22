@@ -1,12 +1,16 @@
 
 ## Thoughts
 
-This is a place for letting it g
+This is a place for letting your thoughts float away.
 
 In the project directory, run:
 
-### `npm i
-`
-### `npm start`
+```shell
+npm i
+```
+then
 
-Enjoy
+```shell
+npm start
+```
+Enjoy.
