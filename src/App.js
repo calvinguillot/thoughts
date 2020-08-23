@@ -22,7 +22,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div >
       <Particles
         id="tsparticles"
         options={{
